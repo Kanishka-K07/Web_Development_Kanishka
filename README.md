@@ -77,5 +77,4 @@ A high-performance, responsive one-page agency website built for **NorthPeak Dig
 
 ---
 
-## ⚖️ License & Evaluation Notice
-Built for Digital Heroes Training Task. Credit line included in footer linking to [digitalheroesco.com](https://digitalheroesco.com).
+
